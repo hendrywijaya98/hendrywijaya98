@@ -2,21 +2,21 @@
 
 🔭 I’m currently looking for opportunity in field of data and technology 
 
-💼 I'm but currently teach on [Patna Learn Data Analytics Bootcamp](https://rahadianrizki.com/private-bootcamp)
+💼 I'm but currently teach on [Patna Learn Data Analytics Bootcamp](https://external.ink?to=/rahadianrizki.com/private-bootcamp)
 
 🌱 I’m currently learning data analytics, machine learning, data engineering, anything statistic related, AI related like LLM, GPT
 
 💡  But I'm also interested to engineering stuff like Front-end or Back-End, UI UX, Business, Make Money, side hustle and Passive income
 
 📫 Please Reach me on
-  - [Twitter @HendryLian](https://twitter.com/HendryLian)
-  - [Medium Hendry Lian 98](https://hendrylian98.medium.com/)
-  - [LinkedIn](https://www.linkedin.com/in/hendrylian)
+  - [Twitter @HendryLian](https://external.ink?to=/twitter.com/HendryLian)
+  - [Medium Hendry Lian 98](https://external.ink?to=/hendrylian98.medium.com/)
+  - [LinkedIn](https://external.ink?to=/www.linkedin.com/in/hendrylian)
   - Discord Hendrylian98#0
 
-💻 Please Visits my Past Projects also on : [My Data Science Portolio Website](https://www.datascienceportfol.io/hendrylian98)
+💻 Please Visits my Past Projects also on : [My Data Science Portolio Website](https://external.ink?to=/www.datascienceportfol.io/hendrylian98)
 
-🔎 My First Research Publication on IEEE: [Song Similarity Analysis With Clustering Method On Korean Pop Song](https://ieeexplore.ieee.org/document/9617204)
+🔎 My First Research Publication on IEEE: [Song Similarity Analysis With Clustering Method On Korean Pop Song](https://external.ink?to=/ieeexplore.ieee.org/document/9617204)
 
 🤦 Life is full of challenge if you are always proactive initiative to reach your dreams and goals
 <!--
