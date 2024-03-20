@@ -2,7 +2,7 @@
 
 🔭 I’m currently looking for opportunity in field of data and technology 
 
-💼 I'm but currently teach on [Patna Learn Data Analytics Bootcamp](https://external.ink?to=/rahadianrizki.com/private-bootcamp)
+💼 I'm but currently teach on [Patna Learn Data Analytics Bootcamp](https://external.ink?to=rahadianrizki.com/private-bootcamp)
 
 🌱 I’m currently learning data analytics, machine learning, data engineering, anything statistic related, AI related like LLM, GPT
 
